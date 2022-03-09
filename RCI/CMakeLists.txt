@@ -1,0 +1,1 @@
+add_executable(rci rci_main.cpp rci_library.h)
