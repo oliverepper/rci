@@ -15,8 +15,6 @@ void draw(const person_t& x, ostream& out, size_t position) {
 }
 
 int main() {
-    document_t document;
-
     history_t h(1);
     cout << "created" << endl;
 
